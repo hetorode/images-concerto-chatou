@@ -2,8 +2,8 @@
 
 ## Rentrée scolaire
 
-![Bandeau rentrée CP](Bandeau_rentrée_CP.jpg)
+![Bandeau/rentree/CP](Bandeau/rentree/CP.jpg)
 
 **URL pour Concerto :**
 
-https://hetorode.github.io/images-concerto-chatou/Bandeau_rentr%C3%A9e_CP.jpg
+https://hetorode.github.io/images-concerto-chatou/Bandeau/rentree/CP.jpg
